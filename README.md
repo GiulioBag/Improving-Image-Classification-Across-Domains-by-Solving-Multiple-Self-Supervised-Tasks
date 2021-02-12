@@ -19,3 +19,6 @@ Then, you have to put it into
 ```
 /Improving-Image-Classification-Across-Domains-by-Solving-Multiple-Self-Supervised-Tasks/models/pretrained/
 ```
+
+## Requirements
+To run the experiments you have to intall all the required libraries listed in the "requirements.txt" file.
