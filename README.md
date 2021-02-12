@@ -21,4 +21,4 @@ Then, you have to put it into
 ```
 
 ## Requirements
-To run the experiments you have to intall all the required libraries listed in the "requirements.txt" file.
+To run the experiments you have to install all the required libraries listed in the "requirements.txt" file.
